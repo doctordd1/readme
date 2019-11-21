@@ -12,3 +12,6 @@
 
 Пример введенных данных
 <img src="https://i.paste.pics/7AOUV.png" width="997" height="605" alt="Screenshot">
+
+Категория сделки
+<img src="https://i.paste.pics/7AOV8.png" width="799" height="149" alt="Screenshot">
